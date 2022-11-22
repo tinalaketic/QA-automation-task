@@ -24,32 +24,37 @@ Scenariji trebaju biti sprovedeni nad mock [Aplikacijom](https://www.saucedemo.c
 * Potvrdjuje da je došlo do greške
 
 ### Korisnik **standard_user** dodaje najskuplji predmet i uspešno radi checkout
+
 * Posle uspešne prijave
 * Korisnik sortira u opadajućem nizu predmete u inventaru
 * Dodaje najskuplji predmet u korpu
 * Uspešno prolazi checkout proces
 
 ### Korisnik **performance_glitch_user** dodaje najskuplji predmet i uspešno radi checkout
+
 * Posle uspešne prijave
 * Korisnik sortira u opadajućem nizu predmete u inventaru
 * Dodaje najskuplji predmet u korpu
 * Uspešno prolazi checkout proces
 
 ### Korisnik **standard_user** dodaje najjeftiniji predmet i uspešno radi checkout
-Posle uspešne prijave
-Korisnik sortira u rastućem nizu predmete u inventaru
-Dodaje najjeftiniji predmet u korpu
-Uspešno prolazi checkout proces
+
+* Posle uspešne prijave
+* Korisnik sortira u rastućem nizu predmete u inventaru
+* Dodaje najjeftiniji predmet u korpu
+* Uspešno prolazi checkout proces
 
 ### Korisnik **performance_glitch_user** dodaje najjeftiniji predmet i uspešno radi checkout
-Posle uspešne prijave
-Korisnik sortira u rastućem nizu predmete u inventaru
-Dodaje najjeftiniji predmet u korpu
-Uspešno prolazi checkout proces
+
+* Posle uspešne prijave
+* Korisnik sortira u rastućem nizu predmete u inventaru
+* Dodaje najjeftiniji predmet u korpu
+* Uspešno prolazi checkout proces
 
 ### Korisnik **standard_user** se odjavljuje
-Posle uspešne prijave
-Korisnik se odjavljuje
+
+* Posle uspešne prijave
+* Korisnik se odjavljuje
 
 ## Preduslovi
 
